@@ -1,8 +1,11 @@
 - 👋 Hi, I’m an aspiring Data Analyst
-- 👀 I’m interested in SQL, PowerBI, Python
-- 🌱 I’m currently learning Pandas
-- 💞️ I’m looking to collaborate on SQL
-- 📫 How to reach me: @https://www.linkedin.com/in/bikash-deb-b42296210/
+- 👀 I’m interested in SQL, PowerBI, Python, Excel
+- 🌱 I’m currently learning LLM
+- 💞️ I’m looking to collaborate on Data Analytics Projects
+- 📫 How to reach me:
+- @[Linkedin](https://www.linkedin.com/in/bikash-deb/)
+- @[My Portfolio](https://www.datascienceportfol.io/BDFolio)
+- @[My Email](bikashdeb792001@gmail.com)
   
 
 <!---
