@@ -1,4 +1,4 @@
-- 👋 Hi, I’m an aspiring Data Analyst
+- 👋 Hi, I’m a Machine Learning Data Analyst
 - 👀 I’m interested in SQL, PowerBI, Python, Excel
 - 🌱 I’m currently learning LLM
 - 💞️ I’m looking to collaborate on Data Analytics Projects
