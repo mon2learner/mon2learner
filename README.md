@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Analytics Projects
 - 📫 How to reach me:
 - @[Linkedin](https://www.linkedin.com/in/bikash-deb/)
-- @[My Portfolio](https://www.datascienceportfol.io/BDFolio)
+- @[My Portfolio](https://mon2learner.github.io/bikashdebgithub.io/)
 - @[My Email](bikashdeb792001@gmail.com)
   
 
